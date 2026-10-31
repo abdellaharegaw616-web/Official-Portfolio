@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#090A0F"/>
+  <rect x="1" y="1" width="30" height="30" rx="7" stroke="#F59E0B" stroke-opacity="0.4" stroke-width="1.5"/>
+  <text x="16" y="21" font-family="monospace, sans-serif" font-size="13" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.5">AA<tspan fill="#F59E0B">.</tspan></text>
+</svg>
