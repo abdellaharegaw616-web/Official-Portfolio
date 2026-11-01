@@ -3,9 +3,9 @@
 > **Abdellah Aregaw** — Software Engineering Student | MERN Stack Developer | Full-Stack Web Developer  
 > Arba Minch University · Expected 2027 · Kombolcha, Wollo, Ethiopia
 
-A high-performance, responsive developer portfolio engineered with modern React, Vite, and Tailwind CSS. Built to showcase practical software engineering projects, code health principles, and technical problem-solving capabilities.
+A high-performance, responsive developer portfolio engineered with modern React, Vite, and Tailwind CSS. Built to showcase practical software engineering projects, code health principles, and technical craftsmanship.
 
-**Live Portfolio**: [strong-lokum-ee7626.netlify.app](https://strong-lokum-ee7626.netlify.app)
+**Live Portfolio**: [strong-lokum-ee7626.netlify.app](https://strong-lokum-ee7626.netlify.app/)
 
 ---
 
@@ -87,8 +87,8 @@ The optimized bundle will be compiled into the `dist/` folder.
 
 ## 📬 Contact
 
-- **Email**: [abdellaharegaw616@gmail.com](mailto:abdellaharegaw616@gmail.com)
+- **Email**: [abdellaj636@gmail.com](mailto:abdellaj636@gmail.com)
 - **Phone**: +251 945 801 156 (`0945801156`)
 - **GitHub**: [abdellaharegaw616-web](https://github.com/abdellaharegaw616-web)
-- **Portfolio**: [strong-lokum-ee7626.netlify.app](https://strong-lokum-ee7626.netlify.app)
+- **Portfolio**: [strong-lokum-ee7626.netlify.app](https://strong-lokum-ee7626.netlify.app/)
 - **Campus**: Arba Minch University, Ethiopia
