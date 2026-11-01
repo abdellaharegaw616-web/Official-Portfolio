@@ -36,6 +36,7 @@ test('Four Main Projects Integrity', () => {
   assert.ok(shopnest.technologies.includes('Express.js'))
   assert.ok(shopnest.technologies.includes('React.js'))
   assert.ok(shopnest.technologies.includes('Node.js'))
+  assert.equal(shopnest.sourceUrl, 'https://github.com/abdellaharegaw616-web/SHOPNEST-ETHIOPIA')
   assert.ok(shopnest.features.length >= 5)
 
   // Project 02: EthioJobs Finder
@@ -44,6 +45,9 @@ test('Four Main Projects Integrity', () => {
   assert.equal(ethiojobs.title, 'EthioJobs Finder')
   assert.ok(ethiojobs.technologies.includes('React.js'))
   assert.ok(ethiojobs.technologies.includes('Node.js'))
+  assert.equal(ethiojobs.sourceUrl, 'https://github.com/abdellaharegaw616-web/-EthioJobFinder')
+  assert.equal(ethiojobs.liveUrl, 'https://ethio-jobs-finder.vercel.app')
+  assert.equal(ethiojobs.hasLiveDemo, true)
 
   // Project 03: TaskFlow Project Management System
   const taskflow = projects.find((p) => p.id === 'taskflow')
@@ -55,6 +59,15 @@ test('Four Main Projects Integrity', () => {
   assert.ok(taskflow.technologies.includes('MongoDB'))
   assert.ok(taskflow.technologies.includes('Tailwind CSS'))
   assert.ok(taskflow.engineeringFocus.length > 10, 'Must have engineering focus note')
+  assert.equal(
+    taskflow.sourceUrl,
+    'https://github.com/abdellaharegaw616-web/Task-Flow-Project-Management-System'
+  )
+  assert.equal(
+    taskflow.liveUrl,
+    'https://task-flow-project-management-system-three.vercel.app/'
+  )
+  assert.equal(taskflow.hasLiveDemo, true)
 
   // Project 04: AMU Navigation System
   const amuNav = projects.find((p) => p.id === 'amu-navigation')

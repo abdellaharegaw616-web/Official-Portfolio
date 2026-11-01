@@ -24,8 +24,8 @@ export const projects = [
     description:
       "ShopNest Ethiopia is an e-commerce platform concept focused on making online product discovery and shopping more convenient. The project explores product catalogs, customer accounts, cart management, checkout workflows, order handling, and administration using a modern full-stack architecture.",
     technologies: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    sourceUrl: "https://github.com/abdellaharegaw616-web/shopnest-ethiopia",
-    githubUrl: "https://github.com/abdellaharegaw616-web/shopnest-ethiopia",
+    sourceUrl: "https://github.com/abdellaharegaw616-web/SHOPNEST-ETHIOPIA",
+    githubUrl: "https://github.com/abdellaharegaw616-web/SHOPNEST-ETHIOPIA",
     liveUrl: null, // Only enabled when verified deployment exists
     hasLiveDemo: false,
     features: [
@@ -46,16 +46,17 @@ export const projects = [
     title: "EthioJobs Finder",
     category: "Web Application · Job Discovery",
     categoryLabel: "WEB APPLICATION · JOB DISCOVERY",
-    badge: "IN DEVELOPMENT",
-    status: "In development",
+    badge: "ACTIVE CODEBASE",
+    status: "Active Codebase",
     isAmberTitle: true,
     description:
       "EthioJobs Finder is a job-discovery platform concept intended to help job seekers find relevant opportunities more efficiently. Its goal is to organize job information and simplify the process of discovering opportunities, reviewing requirements, and accessing application details.",
     technologies: ["MongoDB", "Express.js", "React.js", "Node.js"],
-    sourceUrl: "https://github.com/abdellaharegaw616-web/ethiojobs-finder",
-    githubUrl: "https://github.com/abdellaharegaw616-web/ethiojobs-finder",
-    liveUrl: null,
-    hasLiveDemo: false,
+    sourceUrl: "https://github.com/abdellaharegaw616-web/-EthioJobFinder",
+    githubUrl: "https://github.com/abdellaharegaw616-web/-EthioJobFinder",
+    liveUrl: "https://ethio-jobs-finder.vercel.app",
+    demoUrl: "https://ethio-jobs-finder.vercel.app",
+    hasLiveDemo: true,
     features: [
       "Job listings directory with keyword search",
       "Location and job-category filters",
@@ -80,10 +81,11 @@ export const projects = [
     description:
       "TaskFlow is a project-management system designed to centralize project organization, task tracking, team collaboration, and progress visibility in one application. It aims to reduce fragmented workflows and make project information easier to manage.",
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
-    sourceUrl: "https://github.com/abdellaharegaw616-web/2026-internship-project",
-    githubUrl: "https://github.com/abdellaharegaw616-web/2026-internship-project",
-    liveUrl: null,
-    hasLiveDemo: false,
+    sourceUrl: "https://github.com/abdellaharegaw616-web/Task-Flow-Project-Management-System",
+    githubUrl: "https://github.com/abdellaharegaw616-web/Task-Flow-Project-Management-System",
+    liveUrl: "https://task-flow-project-management-system-three.vercel.app/",
+    demoUrl: "https://task-flow-project-management-system-three.vercel.app/",
+    hasLiveDemo: true,
     features: [
       "JWT-based user authentication and role-based access control",
       "Project workspace creation and milestone management",
@@ -108,8 +110,8 @@ export const projects = [
     description:
       "AMU Navigation System is a campus-navigation project concept intended to help students and visitors locate campus buildings and important destinations more easily. The project focuses on improving campus orientation through clear location information and an accessible navigation interface.",
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
-    sourceUrl: "https://github.com/abdellaharegaw616-web/amu-navigation-system",
-    githubUrl: "https://github.com/abdellaharegaw616-web/amu-navigation-system",
+    sourceUrl: null,
+    githubUrl: null,
     liveUrl: null,
     hasLiveDemo: false,
     features: [

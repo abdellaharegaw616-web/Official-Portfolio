@@ -21,15 +21,20 @@ A high-performance, responsive developer portfolio engineered with modern React,
 
 1. **ShopNest Ethiopia**  
    *Full-Stack Web · E-Commerce Platform*  
-   Product discovery, categorized catalogs, cart state management, checkout simulation, and administrative inventory controls.
+   Product discovery, categorized catalogs, cart state management, checkout simulation, and administrative inventory controls.  
+   - **Repository**: [github.com/abdellaharegaw616-web/SHOPNEST-ETHIOPIA](https://github.com/abdellaharegaw616-web/SHOPNEST-ETHIOPIA)
 
 2. **EthioJobs Finder**  
    *Web Application · Job Discovery*  
-   Opportunity search engine with multi-criteria filtering (location, category, employment type), employer vacancy management, and application workflows.
+   Opportunity search engine with multi-criteria filtering (location, category, employment type), employer vacancy management, and application workflows.  
+   - **Live Demo**: [ethio-jobs-finder.vercel.app](https://ethio-jobs-finder.vercel.app)  
+   - **Repository**: [github.com/abdellaharegaw616-web/-EthioJobFinder](https://github.com/abdellaharegaw616-web/-EthioJobFinder)
 
 3. **TaskFlow Project Management System**  
    *Full-Stack Web · Project Management*  
-   Team collaboration workspace featuring role-based access control, task status tracking, milestone progress dashboards, and REST API validation.
+   Team collaboration workspace featuring role-based access control, task status tracking, milestone progress dashboards, and REST API validation.  
+   - **Live Demo**: [task-flow-project-management-system-three.vercel.app](https://task-flow-project-management-system-three.vercel.app/)  
+   - **Repository**: [github.com/abdellaharegaw616-web/Task-Flow-Project-Management-System](https://github.com/abdellaharegaw616-web/Task-Flow-Project-Management-System)
 
 4. **AMU Navigation System**  
    *Web · Campus Navigation*  
